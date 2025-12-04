@@ -1,0 +1,11 @@
+ Volume in drive G is New Volume
+ Volume Serial Number is 983E-9876
+
+ Directory of G:\ISTQB\NEWLEARN\GitProject
+
+12/04/2025  10:05 AM    <DIR>          .
+12/04/2025  10:02 AM    <DIR>          ..
+12/04/2025  10:05 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,851,671,552 bytes free
+afafasfsa
